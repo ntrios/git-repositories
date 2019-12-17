@@ -1,6 +1,5 @@
 {
-  "name": "repositories-git
-",
+  "name": "git-repositories",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
